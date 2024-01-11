@@ -19,6 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/0xXA/)
 
 ## 🛠️ Tools that I frequently use
+* Autopsy
 * Frida
 * IDA Pro
 * Binary Ninja
