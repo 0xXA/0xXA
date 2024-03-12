@@ -2,11 +2,11 @@
 ## Hi there! I'm Yuvraj, a Cryptologist and Security Researcher.
 
 ### 💡 Some facts about me
-* I'm someone with a lot of experience with Linux, Reverse Engineering, Mobile security, Android Applications Security, and Secure Communications, I love collaborating on all sorts of challenging problems.
+* I'm someone with a lot of experience with Linux, Reverse Engineering, Mobile security, Mobile Applications Security, Embedded/IoT Hacking, and Secure Communications, I love collaborating on all sorts of challenging problems.
 * I like to reverse engineer things just to check how it works underneath.
 
 ### 🧠 My Skills and Expertise
-* 🚀 Proficient in C/C++, Python, Javascript, Reverse Engineering, Mobile Applications Security, Transport Layer Security, Vulnerability Assessment, Cryptography, and Network Security.
+* 🚀 Proficient in C, C++, Python, Javascript, Reverse Engineering, Mobile Applications Security, Transport Layer Security, Vulnerability Assessment, Cryptography, and Network Security.
 * 📈 Passionate about Reverse Engineering, Cryptography, Steganography, and Digital Forensics.
 
 ### 🔧 Contributions and Collaborations
