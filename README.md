@@ -1,4 +1,3 @@
-
 ## Hi there! I'm Yuvraj, a Cryptologist and Security Researcher.
 
 ### 💡 Some facts about me
@@ -14,25 +13,11 @@
 * Collaborated with HDFC Bank, Mobikwik, State Bank of India, Snapchat, and Tencent.
 * **A significant portion of my work remains private**.
 
-## 🛠️ Tools that I frequently use
-* Autopsy
-* Frida
-* IDA Pro
-* Binary Ninja
-* Binwalk
-* Radare2
-* Nmap
-* Nessus
-* Burp Suite
-* Wireshark
-* Unicorn
-
 ## 🔒 Public Keys
 
 ```
-Fingerprint = 05FE E627 E77C 8167 6880  F5FC 6427 C429 A724 4FA6
+Fingerprint = 05FE E627 E77C 8167 6880 F5FC 6427 C429 A724 4FA6
 ```
 
 ### PGP Public Key (RSA 4096)
-
 [GitHub](https://github.com/0xXA.gpg) [OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/05FEE627E77C81676880F5FC6427C429A7244FA6)
