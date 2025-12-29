@@ -1,6 +1,6 @@
 Security researcher who likes breaking things to see how they actually work underneath.
 
-### 🛠️ **Research Field(s)**
+### **Research Field(s)**
 - Applied Cryptography
 - Vulnerability Research
 - Malware Research
