@@ -1,49 +1,18 @@
-# $ whoami
-I'm a security researcher and software developer with a focus on mobile security, reverse engineering, forensics, and applied cryptography. Below are my skills, contributions, and some useful links to connect with me.
+Security researcher who likes breaking things to see how they actually work underneath.
 
----
-
-## 🔧 Skills & Expertise
-
-### 🖥️ **Environments:**
-- Windows, Linux, Unix
-
-### 🧑‍💻 **Programming Languages:**
-- C, C++, Assembly (x86, ARM), Python, Java, Shell
-
-### 🔧 **Frameworks & Tools:**
-- **Frameworks**: Frida, Ghidra, MITRE, Unicorn
-- **Tools**: Apktool, Jadx, JEB, Git, IDA Pro, Wireshark
-
-### 🛠️ **Technical Expertise:**
+### 🛠️ **Research Field(s)**
 - Applied Cryptography
-- Android Malware Analysis
+- Vulnerability Research
+- Malware Research
 - OS Internals
 - Reverse Engineering
 - Mobile Security
-- IoT Security
-- Firmware Analysis
-- OSINT (Open Source Intelligence)
+- Hardware Security
+- Digital Forensic
 
 ---
 
-## 💼 Contributions
-
-I have contributed to several well-known open-source projects, including:
-
-- **Radare2**
-- **Termux**
-- **Binwalk**
-- **Frida**
-- **LineageOS**
-- **Android Open Source Project (AOSP)**
-- **droidimg**
-
-> **Note**: A significant portion of my work remains private, but you can explore my public repositories for more!
-
----
-
-## 🔐 Public Keys
+## Public Keys
 
 You can verify my identity or encrypt messages to me using my PGP public key.
 
@@ -55,7 +24,5 @@ You can verify my identity or encrypt messages to me using my PGP public key.
 
 ---
 
-## 🌐 Let's Connect!
-
-- [LinkedIn](https://linkedin.com/in/0xXA)
-- 📧 Email: [ysaxenax@gmail.com]
+## Have something to talk about !?
+- ysaxenax@gmail.com
